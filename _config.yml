@@ -1,0 +1,28 @@
+name: sultart
+favicon: null
+layout_spectrum: 0.39123212662525475
+typography_spectrum: 0.008592828642576933
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.08692901255562901
+  lightness: 0.18306090193800628
+  saturation: 0.0739908367395401
+  rhythmicContrast: 0.06791244144551456
+purpose: []
