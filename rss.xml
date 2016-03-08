@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SultArt - A Collection of Art by D.R.Sult]]></title>
         <description><![CDATA[SultArt - A Collection of Art by D.R.Sult]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sultart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 01:18:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 01:18:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sultart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Changing Faces]]></title>
+            <description><![CDATA[<article><h1>Changing Faces</h1><p>Life. Death. Rebirth... How can a piece of furniture be sold as "shabby chic" or "distressed", but be considered "junk" if it's in an alley? What do you see here? What could these things become? It's about how you see things, and what you do with them once you decide how to see them. Reduce, reuse, recycle, upcycle... These items had a previous "life" or use. Now move past these objects... Consider human life. How many people do we abandon every day without bothering to help them, or even look and see their potential? Do you WELCOME challenges, and others in need? Or does your expression, attitude, or speech say DO NOT DISTURB!!.....? Let's start changing faces.... For the better. Let's not ignore the faces around us that change because they need us. There are many reasons, but PTSD is especially important to me. BECOME A PART OF MY INSTALLATION... Sign the name of anyone you know, including yourself, who has been affected by PTSD!! Go to www.ptsd.va.gov to learn more about PTSD.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d12806b129b56ddfc8d0770beb010409176f6389.png"></article>]]></description>
+            <link>https://thegrid.ai/sultart/changing-faces/index.html</link>
+            <guid isPermaLink="false">4d51956d-7c36-411e-85c9-38aa279d6908</guid>
+            <pubDate>Tue, 08 Mar 2016 01:17:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portraits: Beautiful Women]]></title>
             <description><![CDATA[<article><h1>Portraits: Beautiful Women</h1><p>Each abstract piece in this series is my interpretation of a woman that I know personally. This is how I see them - not just their physical appearance, but their hearts, minds, strength, and inner beauty as well. First, we have "Sharon". She is a beautiful, complex, loving, and amazing woman, strong and steadfast in her beliefs and principles. Next, we have "Sa'mya". She is exploding with energy, life, imagination, and curiosity. Then there's "Luna". She is calm, centered, at one with nature, and wise beyond her years. Finally, we have "Penny". She was my mother, Penny J. Sult, the most beautiful person I've ever known. She passed away in 2006, and is greatly missed because she impacted the lives of so many. This series began with her, and is dedicated to her memory. I hope you enjoy these pieces. Perhaps they will remind you of someone you know, or even a part of you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9115ff31f687a852e354047ef3367b21c650af93.jpg"></article>]]></description>
-            <link>undefinedportraits-beautiful-women/index.html</link>
+            <link>https://thegrid.ai/sultart/portraits-beautiful-women/index.html</link>
             <guid isPermaLink="false">9240cc19-278e-477a-9577-e818563c3b58</guid>
             <pubDate>Tue, 08 Mar 2016 01:17:19 GMT</pubDate>
         </item>
